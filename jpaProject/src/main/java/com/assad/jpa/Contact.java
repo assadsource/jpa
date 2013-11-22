@@ -1,5 +1,5 @@
 package com.assad.jpa;
 
-public class Contact {
-
+public final class Contact {
+	public final static String STATUS_SUCCESS = "SUCCESS";
 }
